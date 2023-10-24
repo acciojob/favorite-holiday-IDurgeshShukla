@@ -1,1 +1,7 @@
 /*  your css code here. If applicable */
+ul{
+	list-style-type:lower-latin;
+}
+ol{
+	list-style-type: lower-roman;
+}
